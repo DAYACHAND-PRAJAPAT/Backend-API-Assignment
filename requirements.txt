@@ -1,0 +1,28 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database & ORM
+sqlalchemy
+psycopg2-binary
+
+# Async Task Queue & Cache
+celery
+redis
+
+# Data Processing & Manipulation
+pandas
+python-dateutil
+
+# LLM Integration & SDKs
+google-genai
+openai
+
+# Resilience & Robustness
+tenacity
+
+# Environment Configuration
+python-dotenv
+pydantic
+pydantic-settings
